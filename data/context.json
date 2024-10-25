@@ -1,11 +1,12 @@
 {
-	"last_updated_id": "2024-08-21-02",
+	"last_updated_id": "2024-10-25-01",
 	
 	"full_day_overrides": [
 		{
 			"name": "Rally",
 			"applies": ["2024-08-16"],
 			"schedule": {
+				"Waiting for first bell": ["8:00 AM -- 8:30 AM"],
 				"Get to 1st period": ["8:30 AM -- 8:35 AM"],
 				"1st period": ["8:35 AM -- 9:21 AM"],
 				"1st-2nd passing period": ["9:21 AM -- 9:27 AM"],
@@ -20,7 +21,7 @@
 				"5th period": ["1:44 PM -- 2:30 PM"],
 				"5th-6th passing period": ["2:30 PM -- 2:36 PM"],
 				"6th period": ["2:36 PM -- 3:22 PM"],
-				"School's over!": ["3:22 PM -- 3:30 PM"]
+				"School's over!": ["3:22 PM -- 4:00 PM"]
 			}
 		}
 	],
@@ -28,7 +29,7 @@
 	"timeframe_overrides": [
 		{
 			"name": "Example",
-			"applies": ["2024-08-01/2:00 PM -- 2024-08-01/4:00 PM"],
+			"applies": ["2024-10-01/2:00 PM -- 2024-10-01/4:00 PM"],
 			"description": "This is an example timeframe override."
 		}
 	]
