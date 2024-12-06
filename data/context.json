@@ -1,10 +1,10 @@
 {
-	"last_updated_id": "2024-10-25-01",
+	"last_updated_id": "2024-12-06-01",
 	
 	"full_day_overrides": [
 		{
 			"name": "Rally",
-			"applies": ["2024-08-16"],
+			"applies": ["2024-12-06"],
 			"schedule": {
 				"Waiting for first bell": ["8:00 AM -- 8:30 AM"],
 				"Get to 1st period": ["8:30 AM -- 8:35 AM"],
