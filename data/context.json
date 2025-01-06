@@ -1,41 +1,11 @@
 {
-	"last_updated_id": "2024-12-14-01",
+	"last_updated_id": "2025-01-06-01",
 	
 	"full_day_overrides": [
 		{
-			"name": "Regular Schedule Monday (Finals week!)",
-			"applies": ["2024-12-16"],
-			"schedule": "regular"
-		},
-		{
-			"name": "Finals 1st block",
-			"applies": ["2024-12-17"],
-			"schedule": "finalsBlockOne"
-		},
-		{
-			"name": "Finals 2nd block",
-			"applies": ["2024-12-18"],
-			"schedule": "finalsBlockTwo"
-		},
-		{
-			"name": "No school (Winter Break/Teacher Work Day)",
-			"applies": ["2024-12-19"],
-			"schedule": "noSchool"
-		},
-		{
-			"name": "No school (Winter Break/School Holiday)",
-			"applies": ["2024-12-20"],
-			"schedule": "noSchool"
-		},
-		{
-			"name": "Winter Break",
-			"applies": ["2024-12-23 -- 2024-12-27", "2024-12-30 -- 2025-01-03"],
-			"schedule": "none"
-		},
-		{
-			"name": "Rally",
-			"applies": ["2024-12-06"],
-			"schedule": "rally"
+			"name": "Minimum Day",
+			"applies": ["2025-01-06"],
+			"schedule": "minimum"
 		}
 	],
 	
