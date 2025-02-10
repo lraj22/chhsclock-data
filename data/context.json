@@ -1,18 +1,43 @@
 {
-	"last_updated_id": "2025-02-07-01",
+	"last_updated_id": "2025-02-10-01",
 	
 	"full_day_overrides": [
 		{
-			"name": "Grammy Awards Rally",
-			"applies": ["2025-02-07"],
+			"name": "No School (Holiday)",
+			"applies": ["2025-02-10", "2025-02-17", "2025-04-18"],
+			"schedule": "noSchool"
+		},
+		{
+			"name": "Spring Break",
+			"applies": ["2025-03-24 -- 2025-03-28"],
+			"schedule": "none"
+		},
+		{
+			"name": "Last Rally of the Year",
+			"applies": ["2025-04-25"],
 			"schedule": "rally"
+		},
+		{
+			"name": "Finals Week Minimum Days",
+			"applies": ["2025-05-19", "2025-05-20"],
+			"schedule": "minimum"
+		},
+		{
+			"name": "Finals Schedule Block 1",
+			"applies": ["2025-05-21"],
+			"schedule": "finalsBlockOne"
+		},
+		{
+			"name": "Finals Schedule Block 2",
+			"applies": ["2025-05-22"],
+			"schedule": "finalsBlockTwo"
 		}
 	],
 	
 	"timeframe_overrides": [
 		{
 			"name": "Example",
-			"applies": ["2024-10-01/2:00 PM -- 2024-10-01/4:00 PM"],
+			"applies": ["2025-01-01/11:00 AM -- 2025-01-01/1:00 PM"],
 			"description": "This is an example timeframe override."
 		}
 	]
