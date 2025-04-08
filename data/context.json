@@ -1,5 +1,5 @@
 {
-	"last_updated_id": "2025-03-20-01",
+	"last_updated_id": "2025-04-08-01",
 	
 	"full_day_overrides": [
 		{
@@ -8,19 +8,14 @@
 			"schedule": "noSchool"
 		},
 		{
-			"name": "Spring Break",
-			"applies": ["2025-03-24 -- 2025-03-28"],
-			"schedule": "none"
-		},
-		{
 			"name": "CAASPP Testing Schedule - Block 1",
 			"applies": ["2025-04-08", "2025-04-10", "2025-04-16", "2025-04-22", "2025-04-24"],
-			"schedule": "finalsBlockOne"
+			"schedule": "blockOne"
 		},
 		{
 			"name": "CAASPP Testing Schedule - Block 2",
 			"applies": ["2025-04-09", "2025-04-15", "2025-04-17", "2025-04-23", "2025-04-29"],
-			"schedule": "finalsBlockTwo"
+			"schedule": "blockTwo"
 		},
 		{
 			"name": "Last Rally of the Year",
