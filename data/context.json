@@ -3,11 +3,6 @@
 	
 	"full_day_overrides": [
 		{
-			"name": "No School (Holiday)",
-			"applies": ["2025-04-18"],
-			"schedule": "noSchool"
-		},
-		{
 			"name": "Finals Week Minimum Days",
 			"applies": ["2025-05-19", "2025-05-20"],
 			"schedule": "minimum"
