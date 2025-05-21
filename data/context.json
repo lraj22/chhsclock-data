@@ -3,11 +3,6 @@
 	
 	"full_day_overrides": [
 		{
-			"name": "Finals Week Minimum Days",
-			"applies": ["2025-05-19", "2025-05-20"],
-			"schedule": "minimum"
-		},
-		{
 			"name": "Finals Schedule Block 1",
 			"applies": ["2025-05-21"],
 			"schedule": "finalsBlockOne"
@@ -16,6 +11,11 @@
 			"name": "Finals Schedule Block 2",
 			"applies": ["2025-05-22"],
 			"schedule": "finalsBlockTwo"
+		},
+		{
+			"name": "Summer Break",
+			"applies": ["2025-05-23 -- 2025-08-03"],
+			"schedule": "none"
 		}
 	],
 	
