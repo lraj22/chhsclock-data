@@ -1,20 +1,64 @@
 {
-	"last_updated_id": "2025-05-20-01",
+	"last_updated_id": "2025-08-03-01",
 	
 	"full_day_overrides": [
 		{
-			"name": "Finals Schedule Block 1",
-			"applies": ["2025-05-21"],
-			"schedule": "finalsBlockOne"
+			"name": "First Day (minimum)",
+			"applies": ["2025-08-04"],
+			"schedule": "minimum"
 		},
 		{
-			"name": "Finals Schedule Block 2",
-			"applies": ["2025-05-22"],
-			"schedule": "finalsBlockTwo"
+			"name": "Labor Day (no school)",
+			"applies": ["2025-09-01"],
+			"schedule": "noSchool"
+		},
+		{
+			"name": "Veterans' Day (long weekend)",
+			"applies": ["2025-11-10 -- 2025-11-11"],
+			"schedule": "noSchool"
+		},
+		{
+			"name": "Thanksgiving Break",
+			"applies": ["2025-11-24 -- 2025-11-28"],
+			"schedule": "noSchool"
+		},
+		{
+			"name": "Winter Break",
+			"applies": [
+				"2025-12-18 -- 2025-12-19",
+				"2025-12-22 -- 2025-12-26",
+				"2025-12-29 -- 2026-01-02"
+			],
+			"schedule": "noSchool"
+		},
+		{
+			"name": "Martin Luther King Jr. Day (no school)",
+			"applies": ["2026-01-19"],
+			"schedule": "noSchool"
+		},
+		{
+			"name": "Abraham Lincoln's Birthday (no school)",
+			"applies": ["2026-02-09"],
+			"schedule": "noSchool"
+		},
+		{
+			"name": "George Washington's Birthday (no school)",
+			"applies": ["2026-02-16"],
+			"schedule": "noSchool"
+		},
+		{
+			"name": "Spring Break",
+			"applies": ["2026-03-30 -- 2026-04-03"],
+			"schedule": "noSchool"
+		},
+		{
+			"name": "Easter Monday (no school)",
+			"applies": ["2026-04-06"],
+			"schedule": "noSchool"
 		},
 		{
 			"name": "Summer Break",
-			"applies": ["2025-05-23 -- 2025-08-03"],
+			"applies": ["2026-05-22 -- 2026-08-07"],
 			"schedule": "none"
 		}
 	],
