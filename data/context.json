@@ -1,11 +1,11 @@
 {
-	"last_updated_id": "2025-08-03-01",
+	"last_updated_id": "2025-08-11-01",
 	
 	"full_day_overrides": [
 		{
-			"name": "First Day (minimum)",
-			"applies": ["2025-08-04"],
-			"schedule": "minimum"
+			"name": "Lego Rally Day",
+			"applies": ["2025-08-15"],
+			"schedule": "rally"
 		},
 		{
 			"name": "Labor Day (no school)",
