@@ -1,5 +1,5 @@
 {
-	"last_updated_id": "2025-08-18-01",
+	"last_updated_id": "2025-08-21-01",
 	
 	"full_day_overrides": [
 		{
@@ -59,71 +59,6 @@
 	],
 	
 	"timeframe_overrides": [
-		{
-			"name": "Waiting for Back to School Night",
-			"applies": ["2025-08-20/05:00 PM -- 2025-08-20/05:30 PM"],
-			"description": "Waiting for Back to School Night"
-		},
-		{
-			"name": "B2SN Period 1",
-			"applies": ["2025-08-20/05:30 PM -- 2025-08-20/05:40 PM"],
-			"description": "Back to School Night: Period 1"
-		},
-		{
-			"name": "B2SN Passing Period 1-2",
-			"applies": ["2025-08-20/05:40 PM -- 2025-08-20/05:45 PM"],
-			"description": "Back to School Night: Passing Period 1-2"
-		},
-		{
-			"name": "B2SN Period 2",
-			"applies": ["2025-08-20/05:45 PM -- 2025-08-20/05:55 PM"],
-			"description": "Back to School Night: Period 2"
-		},
-		{
-			"name": "B2SN Passing Period 2-3",
-			"applies": ["2025-08-20/05:55 PM -- 2025-08-20/06:00 PM"],
-			"description": "Back to School Night: Passing Period 2-3"
-		},
-		{
-			"name": "B2SN Period 3",
-			"applies": ["2025-08-20/06:00 PM -- 2025-08-20/06:10 PM"],
-			"description": "Back to School Night: Period 3"
-		},
-		{
-			"name": "B2SN Passing Period 3-4",
-			"applies": ["2025-08-20/06:10 PM -- 2025-08-20/06:15 PM"],
-			"description": "Back to School Night: Passing Period 3-4"
-		},
-		{
-			"name": "B2SN Period 4",
-			"applies": ["2025-08-20/06:15 PM -- 2025-08-20/06:25 PM"],
-			"description": "Back to School Night: Period 4"
-		},
-		{
-			"name": "B2SN Passing Period 4-5",
-			"applies": ["2025-08-20/06:25 PM -- 2025-08-20/06:30 PM"],
-			"description": "Back to School Night: Passing Period 4-5"
-		},
-		{
-			"name": "B2SN Period 5",
-			"applies": ["2025-08-20/06:30 PM -- 2025-08-20/06:40 PM"],
-			"description": "Back to School Night: Period 5"
-		},
-		{
-			"name": "B2SN Passing Period 5-6",
-			"applies": ["2025-08-20/06:40 PM -- 2025-08-20/06:45 PM"],
-			"description": "Back to School Night: Passing Period 5-6"
-		},
-		{
-			"name": "B2SN Period 6",
-			"applies": ["2025-08-20/06:45 PM -- 2025-08-20/06:55 PM"],
-			"description": "Back to School Night: Period 6"
-		},
-		{
-			"name": "Back to School Night Over",
-			"applies": ["2025-08-20/06:55 PM -- 2025-08-20/07:00 PM"],
-			"description": "Back to School Night Over"
-		},
 		{
 			"name": "Example ('name' appears in settings: overrideIndicator)",
 			"applies": ["2025-01-01/11:00 AM -- 2025-01-01/01:00 PM"],
